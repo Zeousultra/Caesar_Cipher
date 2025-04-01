@@ -13,8 +13,8 @@ The Caesar Cipher is a simple encryption technique used to encode messages by sh
 Make sure Python 3 is installed on your system. Then clone the repository:
 
 ```bash
-git clone https://github.com/Zeousultra/PRODIGY_CS_01.git
-cd PRODIGY_CS_01
+git clone https://github.com/Zeousultra/Caesar_Cipher.git
+cd Caesar_Cipher
 ```
 
 ## Usage
